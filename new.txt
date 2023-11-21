@@ -1,3 +1,0 @@
-i am just testing this for file reading.
-
-can i read from third line?
