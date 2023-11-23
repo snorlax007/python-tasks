@@ -1,0 +1,4 @@
+"192.168.4.164 -- [22/Dec/2016:15:19:05 +0300] "GET /DVWA/ HTTP/1.1" 200 2020 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML 
+"69.168.4.226 [22/Dec/2016:15:19:06 +0300] "HEAD /DVWA/ HTTP/1.1" 200 263 - "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, 
+"32.89.31.164 [22/Dec/2016:15:19:06 +0300] "HEAD /DVWA/.git/config HTTP/1.1" 484 139"-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537 
+"67.168.3.227 -- [22/Dec/2016:15:19:06 +0300] "HEAD /DVWA/.git/config HTTP/1.1" 484 139"-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537
