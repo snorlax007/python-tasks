@@ -19,3 +19,5 @@ rev.py  - reverse a string*
 sm.py  - Array is given find the multiplication and addition of all elements*
 
 sqr.py  - Lambda function for square of a num *
+
+pattern.py - Testing python regex to filter out IPs *
